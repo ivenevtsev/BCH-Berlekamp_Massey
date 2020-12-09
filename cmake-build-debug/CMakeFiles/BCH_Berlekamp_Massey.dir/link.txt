@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/BCH_Berlekamp_Massey.dir/main.cpp.o  -o BCH_Berlekamp_Massey.exe -Wl,--out-implib,libBCH_Berlekamp_Massey.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
